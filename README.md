@@ -40,9 +40,3 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/jonas-birkeli/count.svg?"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/jonas-birkeli/jonas-birkeli/output/snake.svg" alt="Snake animation" />
-
-###
